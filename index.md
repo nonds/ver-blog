@@ -11,7 +11,7 @@ hero:
     alt: 背景图
   actions:
     - theme: brand
-      text: 自我介绍
+      text: 建站初衷
       link: /markdown-examples
       rel: alternate
     - theme: alt
