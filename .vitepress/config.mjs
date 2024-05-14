@@ -8,12 +8,14 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '知识技能', items:[
+      { text: '技能储备', items:[
         {text:'Vue',link:''}
       ] },
       { text: '扩展识海', link:''}
     ],
     sidebar:false,
+    aside: "left", 
+    lastUpdated: true,
     // sidebar: [
     //   {
     //     text: 'Examples',
