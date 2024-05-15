@@ -12,11 +12,11 @@ hero:
   actions:
     - theme: brand
       text: 建站初衷
-      link: /markdown-examples
+      link: /docs/My-index/reason
       rel: alternate
     - theme: alt
       text: 杂记...
-      link: /api-examples
+      link: /docs/Miscellaneous/notes
 
 features:
   - icon: 💻   
